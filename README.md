@@ -1,29 +1,21 @@
 # Ilya Romanovich
 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxt.js&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=flat&logo=shopify&logoColor=white)
 ![Liquid](https://img.shields.io/badge/Liquid-000000?style=flat&logo=shopify&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
 
-## What I work on
+Web developer based in Warsaw. I build custom websites for direct clients on React and Nuxt. Shopify for ecommerce. Building AI engineering and integration work.
 
-- AI agents and automation built with Claude Code and the Anthropic SDK
-- Custom Shopify themes, sections, and Liquid components
-- Web development — frontend, integrations, tooling
+## Work
+
+- React, Nuxt, TypeScript, Tailwind for custom websites
+- Shopify themes and custom OS 2.0 sections for ecommerce
+- AI engineering and integrations: agents, automation, custom AI tooling
 
 ## Currently
 
-Working on a focused portfolio of reusable Shopify sections, Claude Code skills, and agent workflows.
-
----
-
-<a href="https://github.com/iromanovich">
-  <img src="https://github-readme-stats.vercel.app/api?username=iromanovich&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats" />
-</a>
-<a href="https://github.com/iromanovich">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iromanovich&layout=compact&hide_border=true" alt="Top languages" />
-</a>
+Cleaning up two client case studies from recent work. Filling [claude-code-setup](https://github.com/iromanovich/claude-code-setup) with templates. Publishing AI projects: receipt analyzer, forex/trading bot, AML analyzer for Bitcoin.
